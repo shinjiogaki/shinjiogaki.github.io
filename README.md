@@ -16,6 +16,7 @@
 
 # 日本語記事
 * [行列を使ったポリゴン・メッシュの扱いについて](http://qiita.com/shinjiogaki/items/d16abb018a843c09b8c8)
+* [ボロノイと点列の生成のはなし](https://qiita.com/shinjiogaki/items/df433279497bcc580f11)
 * [BVHのはなし](https://shinjiogaki.github.io/bvh/)
 
 # Master's Thesis
