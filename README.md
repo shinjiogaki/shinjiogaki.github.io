@@ -24,4 +24,4 @@
 
 # Project
 ![Benchmark](https://github.com/shinjiogaki/redqueen/blob/master/images/robot.png)
-* [redqueen renderer](https://github.com/shinjiogaki/redqueen)
+* [Redqueen Renderer](https://github.com/shinjiogaki/redqueen)
