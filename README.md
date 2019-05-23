@@ -2,7 +2,7 @@
 
 # Publications
 * [An N-ary BVH Child Node Sorting Technique for Occlusion Tests](http://jcgt.org/published/0005/02/02/)
-* [Ray Tracing of Quadratic Parametric Surface](http://gcoe-mi.jp/english/temp/publish/62e18d4d8cbad1e01f68cebb2e81ac3e.pdf)
+* [Ray Tracing of Quadratic Parametric Surface](https://github.com/shinjiogaki/about/blob/master/Ray%20Tracing%20of%20Quadratic%20Parametric%20Surface.pdf)
 * [Direct Ray Tracing of Phong Tessellation](http://www.jp.square-enix.com/tech/library/pdf/Siggraph_Asia_2010_Sketch_1.pdf)
 * [An Empirical Fur Shader](http://www.jp.square-enix.com/tech/library/pdf/Siggraph_Asia_2010_Sketch_2.pdf)
 * [Production Ray Tracing of Feature Lines](http://www.iliyan.com/publications/FeatureLineDrawing)
