@@ -3,12 +3,9 @@
 # Publications
 * [MBVH Child Node Sorting for Fast Occlusion Test](https://github.com/shinjiogaki/about/blob/master/MBVH%20Child%20Node%20Sorting%20for%20Fast%20Occlusion%20Test.pdf)
 * [An N-ary BVH Child Node Sorting Technique for Occlusion Tests](http://jcgt.org/published/0005/02/02/)
-
 * [Direct Ray Tracing of Phong Tessellation](http://www.jp.square-enix.com/tech/library/pdf/Siggraph_Asia_2010_Sketch_1.pdf)
 * [Ray Tracing of Quadratic Parametric Surface](https://github.com/shinjiogaki/about/blob/master/Ray%20Tracing%20of%20Quadratic%20Parametric%20Surface.pdf)
-
 * [Production Ray Tracing of Feature Lines](http://www.iliyan.com/publications/FeatureLineDrawing)
-
 * [An Empirical Fur Shader](http://www.jp.square-enix.com/tech/library/pdf/Siggraph_Asia_2010_Sketch_2.pdf)
 * [Shader Development at OLM](https://github.com/shinjiogaki/reports/blob/master/Shader%20Development%20at%20OLM.pdf)
 
