@@ -24,5 +24,4 @@
 * [Laplace Tranceform Based Estimation](https://github.com/shinjiogaki/about/blob/master/Laplace%20Transform%20based%20Estimation.pdf)
 
 # Project
-![Benchmark](https://github.com/shinjiogaki/redqueen/blob/master/images/robot.png)
 * [Redqueen Renderer](https://github.com/shinjiogaki/redqueen)
