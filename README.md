@@ -12,8 +12,9 @@
 # Technical Report
 * [Fragmentation-Aware BVH Contraction](https://github.com/shinjiogaki/reports/blob/master/Fragmentation-Aware%20BVH%20Construction.pdf)
 
-# Presentation
+# Presentations
 * [Procedural Shading & Texturing (CEDEC)](https://speakerdeck.com/shinjiogaki/procedural-shading-and-texturing)
+* [BVH (CEDEC)](https://github.com/shinjiogaki/bvh/blob/master/CEDEC2019.pptx)
 
 # 日本語記事
 * [行列を使ったポリゴン・メッシュの扱いについて](http://qiita.com/shinjiogaki/items/d16abb018a843c09b8c8)
