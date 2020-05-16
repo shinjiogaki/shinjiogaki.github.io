@@ -22,7 +22,7 @@
 * [BVHのはなし](https://shinjiogaki.github.io/bvh/)
 
 # Master's Thesis
-* [Laplace Tranform Based Estimation](https://github.com/shinjiogaki/about/blob/master/Laplace%20Transform%20based%20Estimation.pdf)
+* [Laplace Transform Based Estimation](https://github.com/shinjiogaki/about/blob/master/Laplace%20Transform%20based%20Estimation.pdf)
 
 # Project
 * [Redqueen Renderer](https://github.com/shinjiogaki/redqueen_legacy)
