@@ -30,7 +30,7 @@ A slow starter who loves simple algorithms.
 * [Fragmentation-Aware BVH Contraction](https://github.com/shinjiogaki/reports/blob/master/Fragmentation-Aware%20BVH%20Construction.pdf) (Technical Report)
 
 #### Intersection Test
-* [Ray Tracing of Quadratic Parametric Surface](https://github.com/shinjiogaki/about/blob/master/Ray%20Tracing%20of%20Quadratic%20Parametric%20Surface.pdf) (MEIS 2014)
+* [Ray Tracing of Quadratic Parametric Surface](https://github.com/shinjiogaki/about/blob/master/Ray%20Tracing%20of%20Quadratic%20Parametric%20Surface.pdf) (MEIS 2013)
 * [Direct Ray Tracing of Phong Tessellation](http://www.jp.square-enix.com/tech/library/pdf/EGSR2011.pdf) (EGSR 2011)
 * [Direct Ray Tracing of Phong Tessellation](http://www.jp.square-enix.com/tech/library/pdf/Siggraph_Asia_2010_Sketch_1.pdf) (SIGGRAPH Asia 2010 Technical Sketches)
 
