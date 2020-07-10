@@ -4,10 +4,6 @@ A slow starter who loves simple algorithms.
 
 ### Project
 * [Redqueen Renderer](https://github.com/shinjiogaki/redqueen_legacy)
-![Benchmark](https://github.com/shinjiogaki/redqueen_legacy/blob/master/images/robot.png)
-![Benchmark](https://github.com/shinjiogaki/about/blob/master/images/lego.png)
-![Benchmark](https://github.com/shinjiogaki/about/blob/master/images/sss.png)
-![Benchmark](https://github.com/shinjiogaki/about/blob/master/images/wave.gif)
 
 ### Presentations
 * [BVH](https://github.com/shinjiogaki/bvh/blob/master/CEDEC2019.pptx) (CEDEC 2019)
