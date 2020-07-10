@@ -15,7 +15,7 @@ A slow starter who loves simple algorithms.
 * [BVHのはなし](https://shinjiogaki.github.io/bvh/)
 
 ### Master's Thesis
-* [Laplace Transform Based Estimation](https://github.com/shinjiogaki/about/blob/master/Laplace%20Transform%20based%20Estimation.pdf) (The University of Nottingham, 2008 )
+* [Laplace Transform Based Estimation](https://github.com/shinjiogaki/about/blob/master/Laplace%20Transform%20based%20Estimation.pdf) (The University of Nottingham, 2008)
 
 ### Publications (only first-author papers)
 
