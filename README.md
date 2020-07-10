@@ -2,6 +2,13 @@
 
 A slow starter who loves simple algorithms.
 
+### Project
+* [Redqueen Renderer](https://github.com/shinjiogaki/redqueen_legacy)
+![Benchmark](https://github.com/shinjiogaki/redqueen_legacy/blob/master/images/robot.png)
+![Benchmark](https://github.com/shinjiogaki/about/blob/master/images/lego.png)
+![Benchmark](https://github.com/shinjiogaki/about/blob/master/images/sss.png)
+![Benchmark](https://github.com/shinjiogaki/about/blob/master/images/wave.gif)
+
 ### Presentations
 * [BVH](https://github.com/shinjiogaki/bvh/blob/master/CEDEC2019.pptx) (CEDEC 2019)
 * [Procedural Shading & Texturing](https://speakerdeck.com/shinjiogaki/procedural-shading-and-texturing) (CEDEC 2016)
@@ -13,7 +20,6 @@ A slow starter who loves simple algorithms.
 
 ### Master's Thesis
 * [Laplace Transform Based Estimation](https://github.com/shinjiogaki/about/blob/master/Laplace%20Transform%20based%20Estimation.pdf) (The University of Nottingham, 2008 )
-
 
 ### Publications (only first-author papers)
 
@@ -36,11 +42,4 @@ A slow starter who loves simple algorithms.
 * [Production Ray Tracing of Feature Lines](http://www.iliyan.com/publications/FeatureLineDrawing) (SIGGRAPH Asia 2018 Technical Briefs)
 * [Shader Development at OLM](https://github.com/shinjiogaki/reports/blob/master/Shader%20Development%20at%20OLM.pdf) (SIGGRAPH Asia 2015 R&D in the Video Game Industry)
 * [An Empirical Fur Shader](http://www.jp.square-enix.com/tech/library/pdf/Siggraph_Asia_2010_Sketch_2.pdf) (SIGGRAPH Asia 2010 Technical Sketches)
-
-### Project
-* [Redqueen Renderer](https://github.com/shinjiogaki/redqueen_legacy)
-![Benchmark](https://github.com/shinjiogaki/redqueen_legacy/blob/master/images/robot.png)
-![Benchmark](https://github.com/shinjiogaki/about/blob/master/images/lego.png)
-![Benchmark](https://github.com/shinjiogaki/about/blob/master/images/sss.png)
-![Benchmark](https://github.com/shinjiogaki/about/blob/master/images/wave.gif)
 
