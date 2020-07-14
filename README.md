@@ -20,7 +20,7 @@ A slow starter who loves simple algorithms.
 ### Publications (only first-author papers)
 
 #### Lighting
-* [Generalized Light Portals](https://github.com/shinjiogaki/shinjiogaki.github.io/blob/master/Generalized%20Light%20Portals.pdf) ([Supplemental1](https://github.com/shinjiogaki/shinjiogaki.github.io/blob/master/Generalized%20Light%20Portals%20Supplemental1.pdf)) ([Supplemental2](https://github.com/shinjiogaki/shinjiogaki.github.io/blob/master/Generalized%20Light%20Portals%20Supplemental2.pdf))([Slides](https://github.com/shinjiogaki/shinjiogaki.github.io/blob/master/Generalized%20Light%20Portals%Slides.pdf)) (HPG 2020)
+* [Generalized Light Portals](https://github.com/shinjiogaki/shinjiogaki.github.io/blob/master/Generalized%20Light%20Portals.pdf) ([Supplemental1](https://github.com/shinjiogaki/shinjiogaki.github.io/blob/master/Generalized%20Light%20Portals%20Supplemental1.pdf)) ([Supplemental2](https://github.com/shinjiogaki/shinjiogaki.github.io/blob/master/Generalized%20Light%20Portals%20Supplemental2.pdf)) ([Slides](https://github.com/shinjiogaki/shinjiogaki.github.io/blob/master/Generalized%20Light%20Portals%Slides.pdf)) (HPG 2020)
 
 #### BVH
 * [An N-ary BVH Child Node Sorting Technique for Occlusion Tests](http://jcgt.org/published/0005/02/02/) (JCGT 2016)
