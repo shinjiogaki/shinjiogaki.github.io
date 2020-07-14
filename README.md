@@ -24,9 +24,7 @@ A slow starter who loves simple algorithms.
 
 #### BVH
 * [An N-ary BVH Child Node Sorting Technique for Occlusion Tests](http://jcgt.org/published/0005/02/02/) (JCGT 2016)
-
 * [MBVH Child Node Sorting for Fast Occlusion Test](https://github.com/shinjiogaki/shinjiogaki.github.io/blob/master/MBVH%20Child%20Node%20Sorting%20for%20Fast%20Occlusion%20Test.pdf) (EGSR 2015 EI&I)
-
 * [Fragmentation-Aware BVH Contraction](https://github.com/shinjiogaki/shinjiogaki.github.io/blob/master/Fragmentation-Aware%20BVH%20Construction.pdf) (Technical Report)
 
 #### Intersection Test
