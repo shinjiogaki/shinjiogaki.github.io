@@ -15,27 +15,27 @@ A slow starter who loves simple algorithms.
 * [BVHのはなし](https://shinjiogaki.github.io/bvh/)
 
 ### Master's Thesis
-* [Laplace Transform Based Estimation](https://github.com/shinjiogaki/about/blob/master/Laplace%20Transform%20based%20Estimation.pdf) (The University of Nottingham, 2008)
+* [Laplace Transform Based Estimation](https://github.com/shinjiogaki/shinjiogaki.github.io/blob/master/Laplace%20Transform%20based%20Estimation.pdf) (The University of Nottingham, 2008)
 
 ### Publications (only first-author papers)
 
 #### Lighting
-* [Generalized Light Portals](https://github.com/shinjiogaki/shinji/blob/master/Generalized%20Light%20Portals.pdf) ([Supplemental1](https://github.com/shinjiogaki/shinji/blob/master/Generalized%20Light%20Portals%20Supplemental1.pdf)) ([Supplemental2](https://github.com/shinjiogaki/shinji/blob/master/Generalized%20Light%20Portals%20Supplemental2.pdf))([Slides](https://github.com/shinjiogaki/shinji/blob/master/Generalized%20Light%20Portals%Slides.pdf)) (HPG 2020)
+* [Generalized Light Portals](https://github.com/shinjiogaki/shinjiogaki.github.io/blob/master/Generalized%20Light%20Portals.pdf) ([Supplemental1](https://github.com/shinjiogaki/shinjiogaki.github.io/blob/master/Generalized%20Light%20Portals%20Supplemental1.pdf)) ([Supplemental2](https://github.com/shinjiogaki/shinjiogaki.github.io/blob/master/Generalized%20Light%20Portals%20Supplemental2.pdf))([Slides](https://github.com/shinjiogaki/shinjiogaki.github.io/blob/master/Generalized%20Light%20Portals%Slides.pdf)) (HPG 2020)
 
 #### BVH
 * [An N-ary BVH Child Node Sorting Technique for Occlusion Tests](http://jcgt.org/published/0005/02/02/) (JCGT 2016)
 
-* [MBVH Child Node Sorting for Fast Occlusion Test](https://github.com/shinjiogaki/shinji/blob/master/MBVH%20Child%20Node%20Sorting%20for%20Fast%20Occlusion%20Test.pdf) (EGSR 2015 EI&I)
+* [MBVH Child Node Sorting for Fast Occlusion Test](https://github.com/shinjiogaki/shinjiogaki.github.io/blob/master/MBVH%20Child%20Node%20Sorting%20for%20Fast%20Occlusion%20Test.pdf) (EGSR 2015 EI&I)
 
-* [Fragmentation-Aware BVH Contraction](https://github.com/shinjiogaki/reports/blob/master/Fragmentation-Aware%20BVH%20Construction.pdf) (Technical Report)
+* [Fragmentation-Aware BVH Contraction](https://github.com/shinjiogaki/shinjiogaki.github.io/blob/master/Fragmentation-Aware%20BVH%20Construction.pdf) (Technical Report)
 
 #### Intersection Test
-* [Ray Tracing of Quadratic Parametric Surface](https://github.com/shinjiogaki/about/blob/master/Ray%20Tracing%20of%20Quadratic%20Parametric%20Surface.pdf) (MEIS 2013)
+* [Ray Tracing of Quadratic Parametric Surface](https://github.com/shinjiogaki/shinjiogaki.github.io/blob/master/Ray%20Tracing%20of%20Quadratic%20Parametric%20Surface.pdf) (MEIS 2013)
 * [Direct Ray Tracing of Phong Tessellation](http://www.jp.square-enix.com/tech/library/pdf/EGSR2011.pdf) (EGSR 2011)
 * [Direct Ray Tracing of Phong Tessellation](http://www.jp.square-enix.com/tech/library/pdf/Siggraph_Asia_2010_Sketch_1.pdf) (SIGGRAPH Asia 2010 Technical Sketches)
 
 #### Shading and NPR
 * [Production Ray Tracing of Feature Lines](http://www.iliyan.com/publications/FeatureLineDrawing) (SIGGRAPH Asia 2018 Technical Briefs)
-* [Shader Development at OLM](https://github.com/shinjiogaki/reports/blob/master/Shader%20Development%20at%20OLM.pdf) (SIGGRAPH Asia 2015 R&D in the Video Game Industry)
+* [Shader Development at OLM](https://github.com/shinjiogaki/shinjiogaki.github.io/blob/master/Shader%20Development%20at%20OLM.pdf) (SIGGRAPH Asia 2015 R&D in the Video Game Industry)
 * [An Empirical Fur Shader](http://www.jp.square-enix.com/tech/library/pdf/Siggraph_Asia_2010_Sketch_2.pdf) (SIGGRAPH Asia 2010 Technical Sketches)
 
