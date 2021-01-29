@@ -8,12 +8,12 @@ A slow starter who loves simple algorithms.
 ### Presentations
 * [BVH](https://github.com/shinjiogaki/bvh/blob/master/CEDEC2019.pptx) (CEDEC 2019)
 * [Procedural Shading & Texturing](https://speakerdeck.com/shinjiogaki/procedural-shading-and-texturing) (CEDEC 2016)
+* [布の可視化技術](https://github.com/shinjiogaki/shinjiogaki.github.io/blob/master/Cloth%20Visualization.pptx)
 
 ### 日本語記事
 * [行列を使ったポリゴン・メッシュの扱いについて](http://qiita.com/shinjiogaki/items/d16abb018a843c09b8c8)
 * [ボロノイと点列の生成のはなし](https://qiita.com/shinjiogaki/items/df433279497bcc580f11)
 * [BVHのはなし](https://shinjiogaki.github.io/bvh/)
-* [布の可視化技術](https://github.com/shinjiogaki/shinjiogaki.github.io/blob/master/Cloth%20Visualization.pptx)
 
 ### Master's Thesis
 * [Laplace Transform Based Estimation](https://github.com/shinjiogaki/shinjiogaki.github.io/blob/master/Laplace%20Transform%20based%20Estimation.pdf) (The University of Nottingham, 2008)
