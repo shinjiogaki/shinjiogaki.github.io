@@ -13,11 +13,12 @@ A slow starter who loves simple algorithms.
 * [行列を使ったポリゴン・メッシュの扱いについて](http://qiita.com/shinjiogaki/items/d16abb018a843c09b8c8)
 * [ボロノイと点列の生成のはなし](https://qiita.com/shinjiogaki/items/df433279497bcc580f11)
 * [BVHのはなし](https://shinjiogaki.github.io/bvh/)
+* [布の可視化技術](https://github.com/shinjiogaki/shinjiogaki.github.io/blob/master/Cloth%20Visualization.pptx)
 
 ### Master's Thesis
 * [Laplace Transform Based Estimation](https://github.com/shinjiogaki/shinjiogaki.github.io/blob/master/Laplace%20Transform%20based%20Estimation.pdf) (The University of Nottingham, 2008)
 
-### Publications (only first-author papers)
+### Publications
 
 #### Lighting
 * [Generalized Light Portals](https://github.com/shinjiogaki/shinjiogaki.github.io/blob/master/Generalized%20Light%20Portals.pdf) ([Supplemental1](https://github.com/shinjiogaki/shinjiogaki.github.io/blob/master/Generalized%20Light%20Portals%20Supplemental1.pdf)) ([Supplemental2](https://github.com/shinjiogaki/shinjiogaki.github.io/blob/master/Generalized%20Light%20Portals%20Supplemental2.pdf)) ([Slides](https://github.com/shinjiogaki/shinjiogaki.github.io/blob/master/Generalized%20Light%20Portals%Slides.pdf)) (HPG 2020)
