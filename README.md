@@ -8,7 +8,7 @@ A slow starter who loves simple algorithms.
 ### Presentations
 * [BVH](https://github.com/shinjiogaki/bvh/blob/master/CEDEC2019.pptx) (CEDEC 2019)
 * [Procedural Shading & Texturing](https://speakerdeck.com/shinjiogaki/procedural-shading-and-texturing) (CEDEC 2016)
-* [布の可視化技術](https://github.com/shinjiogaki/shinjiogaki.github.io/blob/master/Cloth%20Visualization.pptx)
+* [布の可視化技術](https://github.com/shinjiogaki/shinjiogaki.github.io/blob/master/Cloth%20Visualization.pptx) (数理的生成手法によるCGとデジタルファブリケーション 2021)
 
 ### 日本語記事
 * [行列を使ったポリゴン・メッシュの扱いについて](http://qiita.com/shinjiogaki/items/d16abb018a843c09b8c8)
