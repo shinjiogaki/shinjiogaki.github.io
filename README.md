@@ -3,7 +3,8 @@
 A slow starter who loves simple algorithms.
 
 ### Project
-* [Redqueen Renderer](https://github.com/shinjiogaki/redqueen_legacy)
+* [redqueen](https://github.com/shinjiogaki/redqueen_legacy) - A global illumination renderer
+* [voroce](https://github.com/shinjiogaki/voroce) - A fast voronoi generator
 
 ### Presentations
 * [布の可視化技術](https://github.com/shinjiogaki/shinjiogaki.github.io/blob/master/Cloth%20Visualization.pptx) (数理的生成手法によるCGとデジタルファブリケーション 2021)
@@ -24,6 +25,7 @@ A slow starter who loves simple algorithms.
 * [Generalized Light Portals](https://github.com/shinjiogaki/shinjiogaki.github.io/blob/master/Generalized%20Light%20Portals.pdf) ([Supplemental1](https://github.com/shinjiogaki/shinjiogaki.github.io/blob/master/Generalized%20Light%20Portals%20Supplemental1.pdf)) ([Supplemental2](https://github.com/shinjiogaki/shinjiogaki.github.io/blob/master/Generalized%20Light%20Portals%20Supplemental2.pdf)) ([Slides](https://github.com/shinjiogaki/shinjiogaki.github.io/blob/master/Generalized%20Light%20Portals%Slides.pdf)) (HPG 2020)
 
 #### BVH
+* [A Survey on Bounding Volume Hierarchies for Ray Tracing]() (Eurographics 2021 STAR)
 * [An N-ary BVH Child Node Sorting Technique for Occlusion Tests](http://jcgt.org/published/0005/02/02/) (JCGT 2016)
 * [MBVH Child Node Sorting for Fast Occlusion Test](https://github.com/shinjiogaki/shinjiogaki.github.io/blob/master/MBVH%20Child%20Node%20Sorting%20for%20Fast%20Occlusion%20Test.pdf) (EGSR 2015 EI&I)
 * [Fragmentation-Aware BVH Contraction](https://github.com/shinjiogaki/shinjiogaki.github.io/blob/master/Fragmentation-Aware%20BVH%20Construction.pdf) (Technical Report)
