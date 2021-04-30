@@ -8,17 +8,16 @@ A slow starter who loves simple algorithms.
 
 ## Publications
 
-### Lighting
-* [Generalized Light Portals](https://github.com/shinjiogaki/shinjiogaki.github.io/blob/master/Generalized%20Light%20Portals.pdf) ([Supplemental1](https://github.com/shinjiogaki/shinjiogaki.github.io/blob/master/Generalized%20Light%20Portals%20Supplemental1.pdf)) ([Supplemental2](https://github.com/shinjiogaki/shinjiogaki.github.io/blob/master/Generalized%20Light%20Portals%20Supplemental2.pdf)) ([Slides](https://github.com/shinjiogaki/shinjiogaki.github.io/blob/master/Generalized%20Light%20Portals%Slides.pdf)) (HPG 2020)
-
 ### BVH
-* [A Survey on Bounding Volume Hierarchies for Ray Tracing]() (Eurographics 2021 STAR)
+* [A Survey on Bounding Volume Hierarchies for Ray Tracing](https://github.com/shinjiogaki/shinjiogaki.github.io/blob/master/BVH%20STAR.pdf) (Eurographics 2021 STAR)
 * [An N-ary BVH Child Node Sorting Technique for Occlusion Tests](http://jcgt.org/published/0005/02/02/) (JCGT 2016)
 * [MBVH Child Node Sorting for Fast Occlusion Test](https://github.com/shinjiogaki/shinjiogaki.github.io/blob/master/MBVH%20Child%20Node%20Sorting%20for%20Fast%20Occlusion%20Test.pdf) (EGSR 2015 EI&I)
 * [Fragmentation-Aware BVH Contraction](https://github.com/shinjiogaki/shinjiogaki.github.io/blob/master/Fragmentation-Aware%20BVH%20Construction.pdf) (Technical Report)
 
+### Lighting
+* [Generalized Light Portals](https://github.com/shinjiogaki/shinjiogaki.github.io/blob/master/Generalized%20Light%20Portals.pdf) ([Supplemental1](https://github.com/shinjiogaki/shinjiogaki.github.io/blob/master/Generalized%20Light%20Portals%20Supplemental1.pdf)) ([Supplemental2](https://github.com/shinjiogaki/shinjiogaki.github.io/blob/master/Generalized%20Light%20Portals%20Supplemental2.pdf)) ([Slides](https://github.com/shinjiogaki/shinjiogaki.github.io/blob/master/Generalized%20Light%20Portals%Slides.pdf)) (HPG 2020)
+
 ### Intersection Test
-* [Ray Tracing of Quadratic Parametric Surface](https://github.com/shinjiogaki/shinjiogaki.github.io/blob/master/Ray%20Tracing%20of%20Quadratic%20Parametric%20Surface.pdf) (MEIS 2013)
 * [Direct Ray Tracing of Phong Tessellation](http://www.jp.square-enix.com/tech/library/pdf/EGSR2011.pdf) (EGSR 2011)
 * [Direct Ray Tracing of Phong Tessellation](http://www.jp.square-enix.com/tech/library/pdf/Siggraph_Asia_2010_Sketch_1.pdf) (SIGGRAPH Asia 2010 Technical Sketches)
 
