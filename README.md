@@ -8,7 +8,7 @@ A slow starter who loves simple algorithms.
 
 ## Publications
 
-### Lighting
+### Lighting and Sampling
 * [Vectorized Reservoir Sampling]() (SIGGRAPH Asia 2021 Technical Communications)
 * [Generalized Light Portals](https://github.com/shinjiogaki/shinjiogaki.github.io/blob/master/Generalized%20Light%20Portals.pdf) ([Supplemental1](https://github.com/shinjiogaki/shinjiogaki.github.io/blob/master/Generalized%20Light%20Portals%20Supplemental1.pdf)) ([Supplemental2](https://github.com/shinjiogaki/shinjiogaki.github.io/blob/master/Generalized%20Light%20Portals%20Supplemental2.pdf)) ([Slides](https://github.com/shinjiogaki/shinjiogaki.github.io/blob/master/Generalized%20Light%20Portals%Slides.pdf)) (HPG 2020)
 
