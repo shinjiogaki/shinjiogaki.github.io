@@ -13,10 +13,10 @@ A slow starter who loves simple algorithms.
 * [Generalized Light Portals](https://github.com/shinjiogaki/shinjiogaki.github.io/blob/master/Generalized%20Light%20Portals.pdf) ([Supplemental1](https://github.com/shinjiogaki/shinjiogaki.github.io/blob/master/Generalized%20Light%20Portals%20Supplemental1.pdf)) ([Supplemental2](https://github.com/shinjiogaki/shinjiogaki.github.io/blob/master/Generalized%20Light%20Portals%20Supplemental2.pdf)) ([Slides](https://github.com/shinjiogaki/shinjiogaki.github.io/blob/master/Generalized%20Light%20Portals%Slides.pdf)) (HPG 2020)
 
 ### Ray Tracing
-* []() (SIGGRAPH Asia 2023 Conference Track)
+* [Nonlinear Ray Tracing for Displacement and Shell Mapping](https://github.com/shinjiogaki/shinjiogaki.github.io/blob/master/Nonlinear%20Ray%20Tracing%20for%20Displacement%20and%20Shell%20Mapping.pdf) (SIGGRAPH Asia 2023 Conference Track)
 * [A Survey on Bounding Volume Hierarchies for Ray Tracing](https://github.com/shinjiogaki/shinjiogaki.github.io/blob/master/BVH%20STAR.pdf) (Eurographics 2021 STAR)
 * [An N-ary BVH Child Node Sorting Technique for Occlusion Tests](http://jcgt.org/published/0005/02/02/) (JCGT 2016)
-* [MBVH Child Node Sorting for Fast Occlusion Test](https://github.com/shinjiogaki/shinjiogaki.github.io/blob/master/MBVH%20Child%20Node%20Sorting%20for%20Fast%20Occlusion%20Test.pdf) (EGSR 2015 EI&I)
+* [MBVH Child Node Sorting for Fast Occlusion Test](https://github.com/shinjiogaki/shinjiogaki.github.io/blob/master/MBVH%20Child%20Node%20Sorting%20for%20Fast%20Occlusion%20Test.pdf) (EGSR 2015 Experimental Ideas & Implementations Track)
 * [Fragmentation-Aware BVH Contraction](https://github.com/shinjiogaki/shinjiogaki.github.io/blob/master/Fragmentation-Aware%20BVH%20Construction.pdf) (Technical Report)
 * [Direct Ray Tracing of Phong Tessellation](http://www.jp.square-enix.com/tech/library/pdf/EGSR2011.pdf) (EGSR 2011)
 * [Direct Ray Tracing of Phong Tessellation](http://www.jp.square-enix.com/tech/library/pdf/Siggraph_Asia_2010_Sketch_1.pdf) (SIGGRAPH Asia 2010 Technical Sketches)
